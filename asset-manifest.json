@@ -1,18 +1,5 @@
 {
   "files": {
-<<<<<<< HEAD
-    "main.css": "/static/css/main.6653056a.css",
-    "main.js": "/static/js/main.8044abc4.js",
-    "static/js/453.5212c002.chunk.js": "/static/js/453.5212c002.chunk.js",
-    "index.html": "/index.html",
-    "main.6653056a.css.map": "/static/css/main.6653056a.css.map",
-    "main.8044abc4.js.map": "/static/js/main.8044abc4.js.map",
-    "453.5212c002.chunk.js.map": "/static/js/453.5212c002.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.6653056a.css",
-    "static/js/main.8044abc4.js"
-=======
     "main.css": "/Room-Tracker/static/css/main.6653056a.css",
     "main.js": "/Room-Tracker/static/js/main.1cbfedab.js",
     "static/js/453.5212c002.chunk.js": "/Room-Tracker/static/js/453.5212c002.chunk.js",
@@ -24,6 +11,5 @@
   "entrypoints": [
     "static/css/main.6653056a.css",
     "static/js/main.1cbfedab.js"
->>>>>>> 7fc39e9 (Initial committ)
   ]
 }
